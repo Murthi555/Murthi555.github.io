@@ -1469,5 +1469,17 @@ footer {
     margin: 80px 0 40px;
 }
 
+#popup {
+  display: none;
+  background-color: #e6ffe6;
+  color: #006600;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.4s ease;
+}
+
+
 /* Reusing existing timeline styles from achievements */
 /* Reusing existing vision-points styles from about page */
